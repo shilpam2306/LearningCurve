@@ -7,7 +7,7 @@
 
 import Foundation
 
-//Algorithm
+//Algorithm - backtracking dp 
 // array : [1,2,3] , Target : 3
                         //Start with empty array - append number if less then target
 //                                           []
